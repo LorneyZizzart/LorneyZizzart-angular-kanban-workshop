@@ -1,5 +1,7 @@
 # Workshop ✅
 
+LINK https://ngchallenges.gitbook.io/example-angular/
+
 Bienvenidos al Workshop, en este aprenderás a crear un Kanban Board, en este repaseremos conceptos básicos, un poco de arquitectura, patrones, y Componentes CDK.
 
 Entre los conceptos que repasaremos están los básicos de Angular: Componentes, Directivas, Módulos, Servicios, Routing.
